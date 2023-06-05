@@ -1,0 +1,30 @@
+.heading{
+    top :0;
+    
+    
+   
+   
+    
+
+
+}
+.heading:hover{
+    color:black;
+    background-color: rgb(211, 142, 239);
+    
+}
+.heading h2{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white ;
+}
+#name_of_object{
+    border: 3px solid rgb(21, 0, 255);
+    height: 40px;
+    width: 250px;
+    color: rgb(0, 84, 229);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-size: cover;
+}
